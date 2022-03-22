@@ -1,5 +1,3 @@
-# BinanceAutoTrade2
-
 import ccxt
 import time
 import datetime
